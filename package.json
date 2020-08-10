@@ -1,0 +1,28 @@
+{
+  "name": "mysql-mongo-converter",
+  "version": "1.0.0",
+  "description": "converts entire MySql database to mongodb including data.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0",
+    "mysql": "^2.11.1",
+    "request": "^2.74.0",
+    "textbelt": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mysql",
+    "to",
+    "mongo",
+    "converter"
+  ],
+  "author": "Syam Danda",
+  "license": "MIT"
+}
