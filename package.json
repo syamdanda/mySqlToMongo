@@ -7,7 +7,7 @@
     "body-parser": "^1.15.2",
     "errorhandler": "^1.4.3",
     "express": "^4.14.0",
-    "mongoose": "^4.6.0",
+    "mongoose": "^5.9.28",
     "mysql": "^2.11.1",
     "request": "^2.74.0",
     "textbelt": "^0.0.3"
